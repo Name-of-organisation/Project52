@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Морской бой 3", "Морской бой 3\Морской бой 3.csproj", "{DB1F112F-2F0B-47FE-8A59-B2E8AF10EC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1F112F-2F0B-47FE-8A59-B2E8AF10EC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1F112F-2F0B-47FE-8A59-B2E8AF10EC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1F112F-2F0B-47FE-8A59-B2E8AF10EC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1F112F-2F0B-47FE-8A59-B2E8AF10EC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32898EDC-2BA4-4EFE-A9E1-97A9CF85997A}
+	EndGlobalSection
+EndGlobal
