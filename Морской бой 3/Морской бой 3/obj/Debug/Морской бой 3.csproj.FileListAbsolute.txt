@@ -1,0 +1,10 @@
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\obj\Debug\Морской бой 3.csproj.AssemblyReference.cache
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\obj\Debug\Морской_бой_3.Properties.Resources.resources
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\obj\Debug\Морской бой 3.csproj.GenerateResource.cache
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\obj\Debug\Морской бой 3.csproj.CoreCompileInputs.cache
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\obj\Debug\Морской_бой_3.Form1.resources
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\bin\Debug\Морской бой 3.exe.config
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\bin\Debug\Морской бой 3.exe
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\bin\Debug\Морской бой 3.pdb
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\obj\Debug\Морской бой 3.exe
+C:\Users\ARSLAN\source\repos\Морской бой 3\Морской бой 3\obj\Debug\Морской бой 3.pdb
